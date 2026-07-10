@@ -1,0 +1,9 @@
+python
+streamlit
+uuid
+langchain
+langchain-community
+langchain-text_splitters
+langchain-huggingface
+langchain-chroma
+langchain-ollama
